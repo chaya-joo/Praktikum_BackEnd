@@ -1,0 +1,12 @@
+# Ignore changes in launchSettings.json and appsettings.json
+Properties/launchSettings.json    assume-unchanged
+appsettings.json                  assume-unchanged
+
+# Treat C# files as text
+*.cs text
+
+# Specify specific handling for other files if needed
+Trypraktikum.http text
+Trypraktikum.csproj text
+Program.cs text
+Trypraktikum.sln text
